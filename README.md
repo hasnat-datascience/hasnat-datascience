@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Hasnat Khan - Data Science Researcher Banner" width="100%">
-</p>
+
 
 # Hello 👋 I'm Hasnat Khan
 
@@ -22,27 +20,32 @@ I am currently investigating methods to enhance model performance on **categoric
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack & Skills
 
-I use a set of modern and industry-relevant tools to conduct my data science research:
+These are the primary tools and languages I work with daily:
 
-<p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-    <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
-</p>
+| Category | Skills & Concepts |
+| :--- | :--- |
+| **Languages** | Python (Advanced) |
+| **Libraries** | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn |
+| **ML/Stats** | KNN, Regression, Classification, Data Preprocessing, Feature Engineering |
+| **Tools** | Jupyter Notebooks, Git, GitHub |
+
+### Key Skills Badges
+
+Showcasing my core competencies visually:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
-## 📅 GitHub Activity Timeline
+## 📈 My GitHub Activity
 
-This timeline visually demonstrates my consistency and commitment to coding and research documentation.
-
-<p align="center">
-    [![Hasnat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnat-datascience&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
+[![Hasnat Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnat-datascience&show_icons=true&theme=dark&hide_border=true&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -51,5 +54,5 @@ This timeline visually demonstrates my consistency and commitment to coding and 
 Let's collaborate on research or discuss Data Science opportunities!
 
 * **Email:** `hasnat21591@gmail.com`
-* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit/)
+* **LinkedIn:** [https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit/](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit/)
 * **GitHub:** [hasnat-datascience](https://github.com/hasnat-datascience)
