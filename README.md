@@ -1,4 +1,13 @@
-# Hello 👋 I'm Hasnat Ullah
+# 
+
+[Image of Data Science Banner]
+
+
+<p align="center">
+    <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Hasnat Khan - Data Science Researcher">
+</p>
+
+# Hello 👋 I'm Hasnat Khan
 
 ### 🐍 Data Science Researcher & Python Enthusiast
 
