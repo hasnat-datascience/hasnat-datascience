@@ -3,9 +3,7 @@
 [Image of Data Science Banner]
 
 
-<p align="center">
-    <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9d13?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Hasnat Khan - Data Science Researcher Banner" width="100%">
-</p>
+
 
 # Hello 👋 I'm Hasnat Khan
 
