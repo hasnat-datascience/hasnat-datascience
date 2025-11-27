@@ -1,29 +1,34 @@
-# Hi there 👋, I'm Hasnat Khan
+# Hasnat Khan  
+**Data Science Researcher | Machine Learning Engineer**
 
-🔬 **Data Science Researcher | Python & Machine Learning Enthusiast**  
-Passionate about turning categorical data into powerful insights using advanced KNN techniques.
+Focused on advancing K-Nearest Neighbors algorithms for categorical and mixed-type datasets through specialized similarity measures and feature selection techniques.
 
-### 🔧 Current Research Focus
-- K-Nearest Neighbors with Hamming, Jaccard, and SMC similarity measures
-- Feature selection & optimization for purely categorical datasets
-- Building reproducible, research-grade ML experiments
+## Research Interests
+- K-Nearest Neighbors with non-Euclidean metrics (Hamming, Jaccard, SMC)
+- Feature selection and dimensionality reduction for categorical data
+- Reproducible machine learning experiments and benchmarking
+- Applied machine learning on real-world categorical datasets
 
-### 🛠 Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+## Technical Skills
+- **Languages:** Python (advanced), SQL  
+- **ML Frameworks:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools:** Jupyter Notebook, Git, GitHub, Google Colab  
+- **Currently mastering:** Optuna, MLflow, advanced feature engineering
 
-### 📈 Featured Projects
-(You’ll fill these soon – I’ll help you pick the best ones)
-- [Categorical KNN Benchmark](link) ← coming soon
-- Mushroom Dataset Deep Dive (Hamming vs Jaccard vs SMC)
-- Adult Income Prediction with mixed-type features
+## Featured Projects
+| Project | Description | Link |
+|-------|-------------|------|
+| Categorical KNN Benchmark | Comprehensive comparison of Hamming, Jaccard, and SMC on 8 UCI datasets | [View →](https://github.com/hasnat-datascience/categorical-knn-benchmark) *(create this repo soon)* |
+| Mushroom Classification Deep Dive | Full exploratory analysis + optimized KNN pipeline | [View →](https://github.com/hasnat-datascience/mushroom-knn) |
+| Adult Income Prediction | Mixed-type features with custom distance metrics | [View →](#) *(coming soon)* |
 
-### 📫 Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnat-khan-datascience)
-[![Email](https://img.shields.io/badge/Email-hasnat21591@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hasnat21591@gmail.com)
+## Education
+B.Sc. in Computer Science (or your actual degree)  
+[Your University] | [Year] – Present
 
-> Currently grinding LeetCode, building portfolio projects, and writing detailed notebooks. Open to collaborations!
+## Contact
+- Email: hasnat21591@gmail.com  
+- LinkedIn: linkedin.com/in/hasnat-khan-datascience  
+- Location: Pakistan
+
+*Actively building research-grade, reproducible ML projects. Open to internships, collaborations, and full-time data science roles.*
