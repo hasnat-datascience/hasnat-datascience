@@ -1,15 +1,12 @@
-# 
-
-[Image of Data Science Banner]
-
-
-
+<p align="center">
+    <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Hasnat Khan - Data Science Researcher Banner" width="100%">
+</p>
 
 # Hello 👋 I'm Hasnat Khan
 
 ### 🐍 Data Science Researcher & Python Enthusiast
 
-I am an aspiring Data Scientist dedicated to rigorous machine learning research and applied experimentation. My focus is on transforming complex data into reproducible, portfolio-ready projects.
+I am an aspiring Data Scientist dedicated to rigorous **machine learning research** and applied experimentation. My focus is on transforming complex data into **reproducible, portfolio-ready projects**.
 
 ---
 
@@ -21,7 +18,7 @@ I am currently investigating methods to enhance model performance on **categoric
 * **Similarity Metrics:** Experimenting extensively with non-Euclidean measures: **Hamming**, **Jaccard**, and **Simple Matching Coefficient (SMC)**.
 * **Methodology:** Emphasizing techniques like **feature selection** and optimization to drive significant predictive improvement.
 
-> My work primarily involves advanced Python practice and documentation of reproducible research experiments in Jupyter Notebooks.
+> My work primarily involves advanced Python practice and documentation of reproducible research experiments in **Jupyter Notebooks**.
 
 ---
 
@@ -50,7 +47,7 @@ Showcasing my core competencies visually:
 
 ## 📈 My GitHub Activity
 
-[![Hasnat Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnat-datascience&show_icons=true&theme=vue&hide_border=true&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
+[![Hasnat Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnat-datascience&show_icons=true&theme=dark&hide_border=true&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
