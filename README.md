@@ -1,6 +1,6 @@
 
 
-# Hello 👋 I'm Hasnat Khan
+# Hello 👋 I'm Hasnat Ullah
 
 ### 🐍 Data Science Researcher & Python Enthusiast
 
