@@ -45,9 +45,11 @@ Showcasing my core competencies visually:
 
 ---
 
-## 📈 My GitHub Activity
+## 🏆 My GitHub Achievements
 
-[![Hasnat Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnat-datascience&show_icons=true&theme=dark&hide_border=true&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    [![Hasnat Khan's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hasnat-datascience&theme=dark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 ---
 
