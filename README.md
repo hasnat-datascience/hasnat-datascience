@@ -1,56 +1,44 @@
-<!-- Banner image (replace with your own banner URL if you want, or use placeholder) -->
-![banner](https://via.placeholder.com/1200x300/0d1117/ffffff?text=Hasnat+Khan+-+Python+%26+ML)
+# Hi there 👋, I'm Hasnat Khan!
 
-# 👋 Hi, I'm Hasnat Khan
-**Python & Machine Learning Enthusiast | Data Science Learner**  
-Focused on **KNN research with Hamming, Jaccard & SMC similarity measures** and building strong Python & ML skills.
+### 🐍 Python & Machine Learning Enthusiast | Focused on Data Science Research
 
----
-
-## 🌟 Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F76541?logo=matplotlib&logoColor=white) 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
+I am a dedicated **Data Science** enthusiast and researcher specializing in practical machine learning application and algorithm optimization. My focus is on creating **reproducible research** and building robust, portfolio-ready projects.
 
 ---
 
-## 🔭 What I'm Working On
-- 🧪 **KNN Research**: Hamming, Jaccard & SMC similarity measures  
-- 💻 Python & Jupyter notebooks for daily practice  
-- 🗂 Feature selection on categorical datasets to improve KNN performance  
+## 🔬 Current Research & Focus Areas
+
+I am currently immersed in research-quality experiments centered on enhancing classification performance on **categorical datasets**.
+
+* **Algorithm Focus:** Deep diving into the **K-Nearest Neighbors (KNN)** algorithm.
+* **Similarity Measures:** Actively experimenting with non-Euclidean metrics, specifically **Hamming**, **Jaccard**, and **Simple Matching Coefficient (SMC)** for measuring similarity in categorical feature spaces.
+* **Optimization:** Emphasizing techniques like **feature selection** and hyperparameter tuning to significantly improve the practical utility and predictive accuracy of models.
+
+> My primary goal is to build a strong foundation in Machine Learning and Data Science through consistently documented and reproducible experiments, primarily using **Jupyter Notebooks**.
 
 ---
 
-## 🌱 Currently Learning
-- 🐍 Advanced **Python programming**  
-- 📊 **Data Science workflows**: data cleaning, preprocessing, visualization  
-- 🤖 **Machine Learning algorithms**: KNN, regression, classification  
-- ⚙️ Comparing **similarity measures** on categorical datasets  
+## 🛠️ My Technical Toolkit
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Programming** | Python 🐍 (Advanced) |
+| **Data Science** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks |
+| **ML Concepts** | KNN, Linear/Logistic Regression, Classification, Data Preprocessing, Feature Engineering |
+| **Documentation** | Markdown, Git, GitHub |
+
+### 🚀 Top Skills Badges (Example Badges)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ---
 
-## 📁 Featured Projects
-| Project | Description |
-|---------|-------------|
-| <img src="https://img.icons8.com/color/48/000000/python.png" width="20"/> `python-daily` | Daily Python exercises, scripts, notebooks |
-| <img src="https://img.icons8.com/color/48/000000/data-configuration.png" width="20"/> `ml-experiments` | Small ML experiments, datasets, preprocessing tasks |
-| <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="20"/> `knn-research` | KNN experiments with Hamming, Jaccard & SMC; feature reduction study |
+## 📈 GitHub Stats
 
----
+*You can add widgets here using community tools like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to visualize your activity and language focus.*
 
-## 📫 Contact Me
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="30"/>](mailto:hasnat21591@gmail.com)  
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit/)  
-[<img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="30"/>](https://github.com/hasnat-datascience)
-
----
-
-## 🎯 Goals
-- Upload Python & ML scripts **daily**  
-- Master **Machine Learning & Data Science** step-by-step  
-- Build a **strong GitHub portfolio** for research & professional opportunities  
+```markdown
+[![Hasnat Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnat-datascience&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
