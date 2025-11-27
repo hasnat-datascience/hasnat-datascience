@@ -1,44 +1,56 @@
-# Hi there 👋, I'm Hasnat Khan!
+# Hello 👋 I'm Hasnat Ullah
 
-### 🐍 Python & Machine Learning Enthusiast | Focused on Data Science Research
+### 🐍 Data Science Researcher & Python Enthusiast
 
-I am a dedicated **Data Science** enthusiast and researcher specializing in practical machine learning application and algorithm optimization. My focus is on creating **reproducible research** and building robust, portfolio-ready projects.
-
----
-
-## 🔬 Current Research & Focus Areas
-
-I am currently immersed in research-quality experiments centered on enhancing classification performance on **categorical datasets**.
-
-* **Algorithm Focus:** Deep diving into the **K-Nearest Neighbors (KNN)** algorithm.
-* **Similarity Measures:** Actively experimenting with non-Euclidean metrics, specifically **Hamming**, **Jaccard**, and **Simple Matching Coefficient (SMC)** for measuring similarity in categorical feature spaces.
-* **Optimization:** Emphasizing techniques like **feature selection** and hyperparameter tuning to significantly improve the practical utility and predictive accuracy of models.
-
-> My primary goal is to build a strong foundation in Machine Learning and Data Science through consistently documented and reproducible experiments, primarily using **Jupyter Notebooks**.
+I am an aspiring Data Scientist dedicated to rigorous machine learning research and applied experimentation. My focus is on transforming complex data into reproducible, portfolio-ready projects.
 
 ---
 
-## 🛠️ My Technical Toolkit
+## 🔬 Current Research Focus
 
-| Category | Tools & Languages |
+I am currently investigating methods to enhance model performance on **categorical datasets**, with a specialization in:
+
+* **Algorithm:** Deep-dive optimization of the **K-Nearest Neighbors (KNN)** classifier.
+* **Similarity Metrics:** Experimenting extensively with non-Euclidean measures: **Hamming**, **Jaccard**, and **Simple Matching Coefficient (SMC)**.
+* **Methodology:** Emphasizing techniques like **feature selection** and optimization to drive significant predictive improvement.
+
+> My work primarily involves advanced Python practice and documentation of reproducible research experiments in Jupyter Notebooks.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+These are the primary tools and languages I work with daily:
+
+| Category | Skills & Concepts |
 | :--- | :--- |
-| **Programming** | Python 🐍 (Advanced) |
-| **Data Science** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks |
-| **ML Concepts** | KNN, Linear/Logistic Regression, Classification, Data Preprocessing, Feature Engineering |
-| **Documentation** | Markdown, Git, GitHub |
+| **Languages** | Python (Advanced) |
+| **Libraries** | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn |
+| **ML/Stats** | KNN, Regression, Classification, Data Preprocessing, Feature Engineering |
+| **Tools** | Jupyter Notebooks, Git, GitHub |
 
-### 🚀 Top Skills Badges (Example Badges)
+### Key Skills Badges
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+Showcasing my core competencies visually:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 My GitHub Activity
 
-*You can add widgets here using community tools like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to visualize your activity and language focus.*
+[![Hasnat Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnat-datascience&show_icons=true&theme=vue&hide_border=true&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
-```markdown
-[![Hasnat Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnat-datascience&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📫 Connect With Me
+
+Let's collaborate on research or discuss Data Science opportunities!
+
+* **Email:** `hasnat21591@gmail.com`
+* **LinkedIn:** [https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit/](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit/)
+* **GitHub:** [hasnat-datascience](https://github.com/hasnat-datascience)
