@@ -1,34 +1,55 @@
-# Hasnat Khan  
-**Data Science Researcher | Machine Learning Engineer**
+<p align="center">
+    <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Hasnat Khan - Data Science Researcher Banner" width="100%">
+</p>
 
-Focused on advancing K-Nearest Neighbors algorithms for categorical and mixed-type datasets through specialized similarity measures and feature selection techniques.
+# Hello 👋 I'm Hasnat Khan
 
-## Research Interests
-- K-Nearest Neighbors with non-Euclidean metrics (Hamming, Jaccard, SMC)
-- Feature selection and dimensionality reduction for categorical data
-- Reproducible machine learning experiments and benchmarking
-- Applied machine learning on real-world categorical datasets
+### 🐍 Data Science Researcher & Python Enthusiast
 
-## Technical Skills
-- **Languages:** Python (advanced), SQL  
-- **ML Frameworks:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools:** Jupyter Notebook, Git, GitHub, Google Colab  
-- **Currently mastering:** Optuna, MLflow, advanced feature engineering
+I am an aspiring Data Scientist dedicated to rigorous **machine learning research** and applied experimentation. My focus is on transforming complex data into **reproducible, portfolio-ready projects**.
 
-## Featured Projects
-| Project | Description | Link |
-|-------|-------------|------|
-| Categorical KNN Benchmark | Comprehensive comparison of Hamming, Jaccard, and SMC on 8 UCI datasets | [View →](https://github.com/hasnat-datascience/categorical-knn-benchmark) *(create this repo soon)* |
-| Mushroom Classification Deep Dive | Full exploratory analysis + optimized KNN pipeline | [View →](https://github.com/hasnat-datascience/mushroom-knn) |
-| Adult Income Prediction | Mixed-type features with custom distance metrics | [View →](#) *(coming soon)* |
+---
 
-## Education
-B.Sc. in Computer Science (or your actual degree)  
-[Your University] | [Year] – Present
+## 🔬 Current Research Focus
 
-## Contact
-- Email: hasnat21591@gmail.com  
-- LinkedIn: linkedin.com/in/hasnat-khan-datascience  
-- Location: Pakistan
+I am currently investigating methods to enhance model performance on **categorical datasets**, with a specialization in:
 
-*Actively building research-grade, reproducible ML projects. Open to internships, collaborations, and full-time data science roles.*
+* **Algorithm:** Deep-dive optimization of the **K-Nearest Neighbors (KNN)** classifier.
+* **Similarity Metrics:** Experimenting extensively with non-Euclidean measures: **Hamming**, **Jaccard**, and **Simple Matching Coefficient (SMC)**.
+* **Methodology:** Emphasizing techniques like **feature selection** and optimization to drive significant predictive improvement.
+
+> My work primarily involves advanced Python practice and documentation of reproducible research experiments in **Jupyter Notebooks**.
+
+---
+
+## 🛠️ My Tech Stack
+
+I use a set of modern and industry-relevant tools to conduct my data science research:
+
+<p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+</p>
+
+---
+
+## 📅 GitHub Activity Timeline
+
+This timeline visually demonstrates my consistency and commitment to coding and research documentation.
+
+<p align="center">
+    [![Hasnat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnat-datascience&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</p>
+
+---
+
+## 📫 Connect With Me
+
+Let's collaborate on research or discuss Data Science opportunities!
+
+* **Email:** `hasnat21591@gmail.com`
+* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit/)
+* **GitHub:** [hasnat-datascience](https://github.com/hasnat-datascience)
