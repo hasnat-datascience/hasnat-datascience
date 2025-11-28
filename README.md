@@ -1,5 +1,8 @@
-# Hasnat Ullah
-### Machine Learning Researcher | Data Science Student | Python Developer
+# 👨‍💻 Hasnat Ullah
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&width=600&lines=Machine+Learning+Researcher;Data+Science+Student;Python+Developer;AI+Enthusiast" alt="Typing SVG" />
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -11,7 +14,13 @@
 
 ## 🔬 Research Area
 
-**KNN Optimization on Categorical Data** | Investigating how strategic feature removal (9-11 attributes) improves Hamming distance performance compared to SMC and Jaccard similarity measures.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+**🎯 KNN Optimization on Categorical Data**
+
+Investigating how strategic feature removal (9-11 attributes) improves Hamming distance performance compared to SMC and Jaccard similarity measures.
+
+### 📊 Research Highlights
 
 <table>
 <tr>
@@ -40,7 +49,7 @@
 </tr>
 </table>
 
-**Key Insight:** Removing noisy attributes shifts decision boundaries, allowing Hamming distance to outperform traditional similarity metrics on categorical datasets.
+**💡 Key Insight:** Removing noisy attributes shifts decision boundaries, allowing Hamming distance to outperform traditional similarity metrics on categorical datasets.
 
 ---
 
@@ -70,14 +79,30 @@
 
 ---
 
-## 💬 Let's Connect
+## 🤝 Let's Collaborate
 
-📧 **Email:** hasnat21591@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/hasnat-ullah](https://linkedin.com/in/hasnat-ullah)  
-🐙 **GitHub:** [@hasnat-datascience](https://github.com/hasnat-datascience)
+<p align="left">
+  <a href="mailto:hasnat21591@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/hasnat-ullah">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/hasnat-datascience">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-> *"Turning data into insights, experiments into knowledge, and curiosity into discovery."*
+<div align="center">
+  
+### 💡 *"Building models that learn, insights that matter, and code that speaks."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasnat-datascience&color=blueviolet&style=flat-square)
+**Open to research collaborations, ML projects, and data science opportunities.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=hasnat-datascience&color=blueviolet&style=for-the-badge)
+
+⭐ *If you find my work interesting, consider giving a star to my repositories!*
+
+</div>
