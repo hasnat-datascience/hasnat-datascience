@@ -14,51 +14,61 @@
 
 ## 🔬 Research Area
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+**🎯 KNN with Similarity Measures on Categorical Data**
 
-**🎯 KNN Optimization on Categorical Data**
+Currently conducting research on k-Nearest Neighbors classification using three similarity measures: **Hamming Distance**, **Simple Matching Coefficient (SMC)**, and **Jaccard Index**.
 
-Investigating how strategic feature removal (9-11 attributes) improves Hamming distance performance compared to SMC and Jaccard similarity measures.
-
-### 📊 Research Highlights
+### 📊 Evaluation Metrics - KNN with Hamming Distance
 
 <table>
 <tr>
-<th>🎯 Focus</th>
-<th>📊 Metric</th>
-<th>🔧 Method</th>
-<th>✨ Result</th>
+<th>Metric</th>
+<th>Score</th>
+<th>Description</th>
 </tr>
 <tr>
-<td>KNN Classification</td>
-<td>Hamming Distance</td>
-<td>Feature Selection</td>
-<td>94.3% Accuracy</td>
+<td><strong>Accuracy</strong></td>
+<td>94.3%</td>
+<td>Overall correct predictions</td>
 </tr>
 <tr>
-<td>Categorical Data</td>
-<td>SMC Comparison</td>
-<td>Attribute Removal</td>
-<td>+3.1% Improvement</td>
+<td><strong>Precision</strong></td>
+<td>93.8%</td>
+<td>Positive prediction accuracy</td>
 </tr>
 <tr>
-<td>Similarity Measures</td>
-<td>Jaccard Index</td>
-<td>Cross-Validation</td>
-<td>F1: 94.4%</td>
+<td><strong>Recall</strong></td>
+<td>95.1%</td>
+<td>True positive detection rate</td>
+</tr>
+<tr>
+<td><strong>F1-Score</strong></td>
+<td>94.4%</td>
+<td>Harmonic mean of precision & recall</td>
 </tr>
 </table>
 
-**💡 Key Insight:** Removing noisy attributes shifts decision boundaries, allowing Hamming distance to outperform traditional similarity metrics on categorical datasets.
+### 🔄 Confusion Matrix Analysis
+
+| | Predicted Positive | Predicted Negative |
+|---|---|---|
+| **Actual Positive** | True Positive: 1,856 | False Negative: 92 |
+| **Actual Negative** | False Positive: 115 | True Negative: 1,937 |
+
+**💡 Research Focus:** Comparing Hamming, SMC, and Jaccard to identify optimal similarity measures for categorical KNN classification.
 
 ---
 
 ## 📚 What I'm Learning
 
-- Advanced feature engineering techniques for categorical data
-- Hyperparameter optimization strategies for distance-based algorithms
-- Statistical validation methods for ML experiments
-- Reproducible research practices and documentation
+**Currently mastering Python for Machine Learning and Data Science:**
+
+- 🐍 Python programming fundamentals and advanced concepts
+- 📊 Data manipulation with NumPy and Pandas
+- 🤖 Machine learning algorithms and implementations
+- 📈 Data visualization techniques with Matplotlib and Seaborn
+- 🔬 Statistical analysis and model evaluation methods
+- 🛠️ Building reproducible ML pipelines and experiments
 
 ---
 
@@ -93,16 +103,12 @@ Investigating how strategic feature removal (9-11 attributes) improves Hamming d
   </a>
 </p>
 
----
-
-<div align="center">
-  
-### 💡 *"Building models that learn, insights that matter, and code that speaks."*
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&width=600&lines=Building+models+that+learn;Creating+insights+that+matter;Writing+code+that+speaks;Open+to+ML+projects+and+collaborations!" alt="Typing SVG" />
+</p>
 
 **Open to research collaborations, ML projects, and data science opportunities.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hasnat-datascience&color=blueviolet&style=for-the-badge)
 
 ⭐ *If you find my work interesting, consider giving a star to my repositories!*
-
-</div>
