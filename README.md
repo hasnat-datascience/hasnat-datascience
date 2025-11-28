@@ -1,58 +1,62 @@
-
-
-# Hello 👋 I'm Hasnat Ullah
-
-### 🐍 Data Science Researcher & Python Enthusiast
-
-I am an aspiring Data Scientist dedicated to rigorous **machine learning research** and applied experimentation. My focus is on transforming complex data into **reproducible, portfolio-ready projects**.
+<!-- Header Section -->
+<div align="center">
+  <h1>Hi there, I'm Hasnat Ullah Khan 👋</h1>
+  <p>🐍 Data Science Researcher & Python Enthusiast</p>
+</div>
 
 ---
 
-## 🔬 Current Research Focus
+<!-- About Me Section -->
+## 📚 About Me
 
-I am currently investigating methods to enhance model performance on **categorical datasets**, with a specialization in:
+I am an aspiring Data Scientist dedicated to rigorous machine learning research and applied experimentation. My focus is on transforming complex data into reproducible, portfolio-ready projects.
 
-* **Algorithm:** Deep-dive optimization of the **K-Nearest Neighbors (KNN)** classifier.
-* **Similarity Metrics:** Experimenting extensively with non-Euclidean measures: **Hamming**, **Jaccard**, and **Simple Matching Coefficient (SMC)**.
-* **Methodology:** Emphasizing techniques like **feature selection** and optimization to drive significant predictive improvement.
+### 🔬 Current Research Focus
 
-> My work primarily involves advanced Python practice and documentation of reproducible research experiments in **Jupyter Notebooks**.
+*   **Algorithm:** Deep-dive optimization of the K-Nearest Neighbors (KNN) classifier.
+*   **Similarity Metrics:** Experimenting extensively with non-Euclidean measures: Hamming, Jaccard, and Simple Matching Coefficient (SMC).
+*   **Methodology:** Emphasizing techniques like feature selection and optimization to drive significant predictive improvement.
 
----
-
-## 🛠️ Tech Stack & Skills
-
-These are the primary tools and languages I work with daily:
-
-| Category | Skills & Concepts |
-| :--- | :--- |
-| **Languages** | Python (Advanced) |
-| **Libraries** | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn |
-| **ML/Stats** | KNN, Regression, Classification, Data Preprocessing, Feature Engineering |
-| **Tools** | Jupyter Notebooks, Git, GitHub |
-
-### Key Skills Badges
-
-Showcasing my core competencies visually:
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+My work primarily involves advanced Python practice and documentation of reproducible research experiments in Jupyter Notebooks.
 
 ---
 
-## 📈 My GitHub Activity
+<!-- Technologies & Tools Section with Icons -->
+## 🛠️ Technologies & Tools
 
-[![Hasnat Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnat-datascience&show_icons=true&theme=dark&hide_border=true&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
+These are the primary tools and languages I work with daily, using clean icons similar to the profile image example.
+
+<div align="center">
+  <img src="skillicons.dev" />
+</div>
 
 ---
 
-## 📫 Connect With Me
+<!-- GitHub Activity/Stats Section -->
+<h2>📈 My GitHub Activity</h2>
+
+Dynamic stats cards provide a snapshot of public contributions and most used languages.
+
+<div align="center">
+  <img src="github-readme-stats.vercel.app" alt="Hasnat's GitHub Stats" />
+  <img src="github-readme-stats.vercel.app" alt="Hasnat's Top Languages" />
+</div>
+
+---
+
+<!-- Let's Connect Section with Badges -->
+<h2>📫 Connect With Me</h2>
 
 Let's collaborate on research or discuss Data Science opportunities!
 
-* **Email:** `hasnat21591@gmail.com`
-* **LinkedIn:** [https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit/](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit/)
-* **GitHub:** [hasnat-datascience](https://github.com/hasnat-datascience)
+*   **Email:** [hasnat21591@gmail.com](mailto:hasnat21591@gmail.com)
+*   **LinkedIn:** [Connect on LinkedIn](www.linkedin.com)
+*   **GitHub:** [@hasnat-datascience](github.com)
+
+---
+
+<!-- Fun Fact Section -->
+<h2>💡 Fun Fact</h2>
+
+I once read that when I'm bored, I enjoy optimizing my coffee machine's brewing algorithms!
+
