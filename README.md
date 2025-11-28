@@ -1,62 +1,69 @@
-<!-- Header Section -->
-<div align="center">
-  <h1>Hi there, I'm Hasnat Ullah Khan 👋</h1>
-  <p>🐍 Data Science Researcher & Python Enthusiast</p>
-</div>
+Produce a polished, professional, and modern GitHub README.md in Markdown. Tone: confident, concise, and research-oriented (senior-researcher / experienced engineer voice). Target audience: recruiters, collaborators, and academics.
 
----
+Constraints & style:
+- Keep the README under ~900–1400 words.
+- Use clean Markdown headings, short paragraphs, 1–2-line code blocks where useful, and bullet lists for readability.
+- Add emoji sparingly for visual cues (icons for sections only).
+- Include badges placeholders at the top (build, license, PyPI/GitHub stars, language stats) with Markdown badge links left as placeholders.
+- Provide 1 inline example code snippet showing how to run a key project (3–6 lines).
+- Provide a short, friendly “How to cite” entry for academic use (BibTeX placeholder).
+- Keep language formal but accessible — no long theory dumps; emphasize results, reproducibility, and how to reproduce experiments.
 
-<!-- About Me Section -->
-## 📚 About Me
+Required sections (in this exact order):
+1. Header
+   - Project / profile title line: a brief tagline (1 sentence).
+   - One-line summary of what you do: mention machine learning, KNN, similarity measures (SMC, Dice, Hamming), manual attribute selection to improve Hamming, Python research & tooling.
 
-I am an aspiring Data Scientist dedicated to rigorous machine learning research and applied experimentation. My focus is on transforming complex data into reproducible, portfolio-ready projects.
+2. Badges (single line with placeholders)
+   - e.g. build, license, coverage, stars, languages.
 
-### 🔬 Current Research Focus
+3. Quick summary (2–3 short paragraphs)
+   - Who you are (student / researcher), research focus (KNN + similarity metrics), practical goal (make Hamming outperform others by removing 9–11 attributes), and main languages/tools (Python, scikit-learn, pandas, numpy, Jupyter, Git).
 
-*   **Algorithm:** Deep-dive optimization of the K-Nearest Neighbors (KNN) classifier.
-*   **Similarity Metrics:** Experimenting extensively with non-Euclidean measures: Hamming, Jaccard, and Simple Matching Coefficient (SMC).
-*   **Methodology:** Emphasizing techniques like feature selection and optimization to drive significant predictive improvement.
+4. Tech & tools (compact icons/labels)
+   - List main stack: Python, scikit-learn, pandas, numpy, matplotlib/seaborn (optional), Git, GitHub Actions, Docker (if applicable).
 
-My work primarily involves advanced Python practice and documentation of reproducible research experiments in Jupyter Notebooks.
+5. Spotlight — Key Projects (3 items)
+   - For each project: Title, 1-line description, key result (metrics in %), link to folder/notebook, short commands to reproduce experiment.
+   - One project MUST be your KNN/Hamming research: describe dataset type (categorical example like Mushrooms), 1–2 sentence experimental setup (manual attribute removal 9–11, KNN with Hamming vs SMC/Dice), main results (accuracy / precision / recall / F1 in %), and best-practices notes.
 
----
+6. Reproducibility — Run experiments locally (step-by-step)
+   - Minimal steps: clone, create venv, install requirements, run main notebook/script with example command.
+   - Provide example command block:
+     ```bash
+     git clone <repo-url>
+     cd <repo>
+     python -m venv .venv && source .venv/bin/activate
+     pip install -r requirements.txt
+     python experiments/run_knn_hamming.py --dataset mushrooms --remove-cols 10
+     ```
 
-<!-- Technologies & Tools Section with Icons -->
-## 🛠️ Technologies & Tools
+7. Results — concise table or bullets
+   - Show sample results format (Accuracy, Precision, Recall, F1) with percentages; provide recommended artifacts: `results/` CSV, `plots/` PNGs, `notebooks/` notebook names.
 
-These are the primary tools and languages I work with daily, using clean icons similar to the profile image example.
+8. How it works (short conceptual bullets)
+   - Explain the idea in short bullets: Hamming for binary/categorical, manual attribute removal to alter the decision boundary, why removal can boost Hamming, validation strategy (k-fold, stratified), metrics used.
 
-<div align="center">
-  <img src="skillicons.dev" />
-</div>
+9. Research notes & tips (practical, not theoretical)
+   - Best attribute selection heuristics you used (mutual information, chi-square, manual domain knowledge).
+   - Cross-validation strategy and pitfalls.
+   - Short note: keep model unchanged (KNN hyperparams fixed) — only dataset modification allowed.
 
----
+10. Contribution & roadmap
+    - How others can contribute (issues, PRs, reproduce experiments).
+    - Short roadmap: more datasets, automated subset search, ablation study, hyperparameter grid.
 
-<!-- GitHub Activity/Stats Section -->
-<h2>📈 My GitHub Activity</h2>
+11. Citation, License & Contact
+    - BibTeX snippet placeholder for citation.
+    - Short license line (MIT or chosen).
+    - Contact methods: email, LinkedIn, ORCID, personal site (placeholders).
 
-Dynamic stats cards provide a snapshot of public contributions and most used languages.
+12. Footer — personal note
+    - 1–2 line closing: invite collaboration, mention you are open for research internships and project collaborations.
 
-<div align="center">
-  <img src="github-readme-stats.vercel.app" alt="Hasnat's GitHub Stats" />
-  <img src="github-readme-stats.vercel.app" alt="Hasnat's Top Languages" />
-</div>
+Fill placeholders:
+- Replace `<name>`, `<repo-url>`, `<email>`, `<dataset-names>`, `<best-results>` with real values.
+- Where the prompt requests example metrics, use your actual percentages or realistic placeholders like `Accuracy: 94.3%`.
 
----
-
-<!-- Let's Connect Section with Badges -->
-<h2>📫 Connect With Me</h2>
-
-Let's collaborate on research or discuss Data Science opportunities!
-
-*   **Email:** [hasnat21591@gmail.com](mailto:hasnat21591@gmail.com)
-*   **LinkedIn:** [Connect on LinkedIn](www.linkedin.com)
-*   **GitHub:** [@hasnat-datascience](github.com)
-
----
-
-<!-- Fun Fact Section -->
-<h2>💡 Fun Fact</h2>
-
-I once read that when I'm bored, I enjoy optimizing my coffee machine's brewing algorithms!
-
+Output format:
+- Produce only the final README.md content in valid Markdown ready to paste into GitHub.
