@@ -29,36 +29,30 @@ Currently conducting research on k-Nearest Neighbors classification using three 
 </tr>
 <tr>
 <td><strong>Accuracy</strong></td>
-<td>94.3%</td>
-<td>91.2%</td>
-<td>90.8%</td>
+<td>89%</td>
+<td>87</td>
+<td>87%</td>
 </tr>
 <tr>
 <td><strong>Precision</strong></td>
-<td>93.8%</td>
-<td>90.5%</td>
-<td>89.9%</td>
+<td>92%</td>
+<td>67%</td>
+<td>84%</td>
 </tr>
 <tr>
 <td><strong>Recall</strong></td>
-<td>95.1%</td>
-<td>92.3%</td>
-<td>91.7%</td>
+<td>87%</td>
+<td>87%</td>
+<td>87%</td>
 </tr>
 <tr>
 <td><strong>F1-Score</strong></td>
-<td>94.4%</td>
-<td>91.4%</td>
-<td>90.8%</td>
+<td>89%</td>
+<td>86%</td>
+<td>85%</td>
 </tr>
 </table>
 
-### 🔄 Confusion Matrix - KNN with Hamming Distance
-
-| | Predicted Positive | Predicted Negative |
-|---|---|---|
-| **Actual Positive** | True Positive: 1,856 | False Negative: 92 |
-| **Actual Negative** | False Positive: 115 | True Negative: 1,937 |
 
 **💡 Research Focus:** Comparing Hamming, SMC, and Jaccard to identify optimal similarity measures for categorical KNN classification.
 
