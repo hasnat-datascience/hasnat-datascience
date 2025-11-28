@@ -30,7 +30,7 @@ Currently conducting research on k-Nearest Neighbors classification using three 
 <tr>
 <td><strong>Accuracy</strong></td>
 <td>89%</td>
-<td>87</td>
+<td>87%</td>
 <td>87%</td>
 </tr>
 <tr>
